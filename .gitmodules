@@ -1,0 +1,6 @@
+[submodule "sub2"]
+	path = sub2
+	url = https://github.com/lchetty3/sub2.git
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/lchetty3/sub1.git
