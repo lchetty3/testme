@@ -1,0 +1,10 @@
+total 24
+drwxr-xr-x+ 33 leon  staff  1056 Aug  2 19:31 ../
+-rw-r--r--   1 leon  staff   152 Aug  2 19:32 .gitmodules
+-rw-r--r--   1 leon  staff     8 Aug  2 19:32 main.c
+-rw-r--r--   1 leon  staff     8 Aug  2 19:32 README.md
+drwxr-xr-x   2 leon  staff    64 Aug  2 19:32 sub2/
+drwxr-xr-x   3 leon  staff    96 Aug  2 19:35 sub1/
+drwxr-xr-x  13 leon  staff   416 Aug  2 19:36 .git/
+-rw-r--r--   1 leon  staff     0 Aug  2 19:36 mydir.txt
+drwxr-xr-x   9 leon  staff   288 Aug  2 19:36 ./
